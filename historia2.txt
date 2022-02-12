@@ -1,3 +1,5 @@
 Esta es la primera linea de la horaita de Kevin. 
 
-Kevin es un habitante del planeta tierra y tiene 30 años. 
+Kevin es un habitante del planeta tierra y tiene 33 años. 
+
+Ademas Kevin es una persona que le gusta viajar, aunque no lo hace tan seguido como quisiera. 
